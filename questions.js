@@ -88,6 +88,7 @@ const questions = [
             "Berat badan: 30, jumlah siswa: 4"
         ],
         jawabanBenar: "Berat badan: 27, jumlah siswa: 3"
+        urlGambar: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrdP2y1QjHTAIE8zKthrVt4FO2aLCPjhX5k7IEsqv2tvlYVSGyuRbxQlAp2m9WWfXaMa0RGJGWbYVjq5fYgoEOB4TGQZcgCfqf7ypPzaksTt84R3ZYDpYTIG_raqOFo40-Bp7Bgo9B71uEfLRCCHd6L8R-Qu4sx72XCkpPAtWpB7UxEDUmG-wCt4QmMR8/s572/Screenshot%202025-12-01%20033629.png"
     },
     {
         soal: "Kalimat wawancara: 'Sekian wawancara yang saya lakukan. Mohon maaf bila ada kekurangan atau ketidaksesuaian dengan yang diinginkan.' dapat kita temui pada bagian wawancara, yaitu ....",
@@ -280,4 +281,5 @@ const questions = [
         ],
         jawabanBenar: "Pernyataan resmi kepada publik"
     }
+
 ];
